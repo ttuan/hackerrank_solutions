@@ -10,3 +10,4 @@ Solution for all challenges at [Linked List Challenges](https://www.hackerrank.c
 * [Delete a node from a linked list](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem)
 * [Print the elements of a linked list in reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem)
 * [Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list)
+* [Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem)
