@@ -8,3 +8,4 @@ Solution for all challenges at [Linked List Challenges](https://www.hackerrank.c
 * [Insert a Node at Nth of a Linked
     List](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem)
 * [Delete a node from a linked list](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem)
+* [Print the elements of a linked list in reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem)
