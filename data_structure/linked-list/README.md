@@ -15,3 +15,4 @@ Solution for all challenges at [Linked List Challenges](https://www.hackerrank.c
 * [Get the value of the node at a specific position from the tail](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem)
 * [Delete duplicate value nodes from a shorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem)
 * [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linlinked-list-contains-a-cycle)
+* [Reverse a doubley linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linlinked-list/problem)
