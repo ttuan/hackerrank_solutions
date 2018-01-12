@@ -13,3 +13,4 @@ Solution for all challenges at [Linked List Challenges](https://www.hackerrank.c
 * [Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem)
 * [Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linlinked-lists/problem)
 * [Get the value of the node at a specific position from the tail](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem)
+* [Delete duplicate value nodes from a shorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem)
