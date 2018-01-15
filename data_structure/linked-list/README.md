@@ -17,3 +17,4 @@ Solution for all challenges at [Linked List Challenges](https://www.hackerrank.c
 * [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linlinked-list-contains-a-cycle)
 * [Reverse a doubley linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linlinked-list/problem)
 * [Insert a node into a sorted linked list](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem)
+* [Find the merge point of 2 lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem)
