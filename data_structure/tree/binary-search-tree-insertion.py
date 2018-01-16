@@ -1,3 +1,7 @@
+# Binary search tree is a tree which:
+# + All left child nodes of node A is smaller
+# + All right child nodes of node A is bigger
+
 """
 Node is defined as
 self.left (the left child of the node)
