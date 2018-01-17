@@ -4,4 +4,5 @@ Solutions for all challenges at [Stacks](https://www.hackerrank.com/domains/data
 
 * [Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem)
 * [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-braclinkets/problem)
+* [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem)
 
