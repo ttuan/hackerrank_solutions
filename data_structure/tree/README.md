@@ -11,3 +11,4 @@ Solutions for all challenges at [Tree](https://www.hackerrank.com/challenges/tre
 * [Binary Search Tree Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem)
 * [Binary Search Tree Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem)
 * [Tree Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)
+* [Is Binary Search Tree?](https://www.hackerrank.com/challenges/is-binary-search-tree/problem)
