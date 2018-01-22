@@ -7,3 +7,4 @@
 * [Cavity Map](https://www.hackerranlink.com/challenges/cavity-map/problem)
 * [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)
 * [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)
+* [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem)
