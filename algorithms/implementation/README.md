@@ -6,3 +6,4 @@
 * [Between two sets](https://www.hackerrank.com/challenges/between-two-sets/problem)
 * [Cavity Map](https://www.hackerranlink.com/challenges/cavity-map/problem)
 * [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)
+* [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)
