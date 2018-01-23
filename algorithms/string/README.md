@@ -5,3 +5,4 @@
 * [Two Character](https://www.hackerrank.com/challenges/two-characters/problem)
 * [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)
 * [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem)
+* [Funny String](https://www.hackerrank.com/challenges/funny-string/problem)
