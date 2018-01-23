@@ -11,3 +11,4 @@
 * [Cut The Sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)
 * [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)
 * [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem)
+* [Encryption](https://www.hackerrank.com/challenges/encryption/problem)
