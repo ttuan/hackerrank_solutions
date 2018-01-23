@@ -10,3 +10,4 @@
 * [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem)
 * [Cut The Sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)
 * [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)
+* [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem)
