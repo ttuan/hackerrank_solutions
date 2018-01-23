@@ -14,3 +14,4 @@
 * [Encryption](https://www.hackerrank.com/challenges/encryption/problem)
 * [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)
 * [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)
+* [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)
