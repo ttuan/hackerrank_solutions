@@ -12,3 +12,4 @@
 * [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)
 * [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem)
 * [Encryption](https://www.hackerrank.com/challenges/encryption/problem)
+* [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)
