@@ -16,3 +16,5 @@
 * [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)
 * [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)
 * [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem)
+* [Cats and Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
+* [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
