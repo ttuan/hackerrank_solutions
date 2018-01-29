@@ -19,3 +19,4 @@
 * [Cats and Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
 * [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
 * [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)
+* [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
