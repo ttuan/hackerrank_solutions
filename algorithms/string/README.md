@@ -9,3 +9,4 @@
 * [Two String](https://www.hackerrank.com/challenges/two-strings/problem)
 * [Game Of Thrones](https://www.hackerrank.com/challenges/game-of-thrones/problem)
 * [Hackerrank In a String](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem)
+* [Gem Stones](https://www.hackerrank.com/challenges/gem-stones/problem)
