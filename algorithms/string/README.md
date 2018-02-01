@@ -10,3 +10,4 @@
 * [Game Of Thrones](https://www.hackerrank.com/challenges/game-of-thrones/problem)
 * [Hackerrank In a String](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem)
 * [Gem Stones](https://www.hackerrank.com/challenges/gem-stones/problem)
+* [String Construction](https://www.hackerrank.com/challenges/string-construction/problem)
