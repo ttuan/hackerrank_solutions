@@ -11,3 +11,4 @@
 * [Hackerrank In a String](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem)
 * [Gem Stones](https://www.hackerrank.com/challenges/gem-stones/problem)
 * [String Construction](https://www.hackerrank.com/challenges/string-construction/problem)
+* [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem)
