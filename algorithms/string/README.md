@@ -13,3 +13,4 @@
 * [String Construction](https://www.hackerrank.com/challenges/string-construction/problem)
 * [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem)
 * [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/problem)
+* [The Love Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem)
