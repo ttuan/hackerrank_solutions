@@ -20,3 +20,4 @@
 * [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
 * [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)
 * [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
+* [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)
