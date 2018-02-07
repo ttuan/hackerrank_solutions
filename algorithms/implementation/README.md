@@ -1,5 +1,7 @@
 # Implementation
 
+## Easy
+
 * [Grading Students](https://www.hackerranlink.com/challenges/grading/problem)
 * [Apple and Orange](https://www.hackerranlink.com/challenges/apple-and-orange/problem)
 * [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)
@@ -21,3 +23,8 @@
 * [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)
 * [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
 * [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)
+
+
+## Medium
+
+* [Larrys Array](https://www.hackerrank.com/challenges/larrys-array/problem)
