@@ -1,24 +1,25 @@
 #!/bin/ruby
 
-# TODO Need more refactor algorithm to pass all testcase
-
 s = gets.strip
 n = gets.strip.to_i
 
 s_chars = s.split('')
-d = Array.new(s_chars.length, 0)
-i = -1
-previous_char = s_chars.last
-while !s_chars.empty? do
-  current_char = s_chars.pop
-  i += 1
-  d[i] = d[i-1] if previous_char == current_char
-  d[i] += current_char.ord - 96
-  previous_char = current_char
+d = []
+
+prev = s_chars[0].ord - 96
+d[prev] = true
+
+for i in (1...s_chars.size) do
+  if s_chars[i] == s_chars[i-1]
+    prev = prev + s_chars[i].ord - 96
+  else
+    prev = s_chars[i].ord - 96
+  end
+  d[prev] = true
 end
 
 for a0 in (0..n-1)
   x = gets.strip.to_i
-  puts d.include?(x) ? "Yes" : "No"
+  puts d[x] ? "Yes" : "No"
 end
 
