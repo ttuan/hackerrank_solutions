@@ -24,6 +24,7 @@
 * [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
 * [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)
 * [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)
+* [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)
 
 
 ## Medium
