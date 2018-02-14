@@ -25,6 +25,7 @@
 * [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)
 * [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)
 * [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)
+* [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)
 
 
 ## Medium
