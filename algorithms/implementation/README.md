@@ -26,6 +26,7 @@
 * [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)
 * [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)
 * [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)
+* [Angry Profesor](https://www.hackerrank.com/challenges/angry-professor/problem)
 
 
 ## Medium
