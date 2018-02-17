@@ -28,6 +28,7 @@
 * [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)
 * [Angry Profesor](https://www.hackerrank.com/challenges/angry-professor/problem)
 * [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)
+* [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit/problem)
 
 
 ## Medium
