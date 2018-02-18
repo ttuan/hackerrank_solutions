@@ -29,6 +29,7 @@
 * [Angry Profesor](https://www.hackerrank.com/challenges/angry-professor/problem)
 * [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)
 * [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit/problem)
+* [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)
 
 
 ## Medium
