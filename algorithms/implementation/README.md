@@ -32,6 +32,7 @@
 * [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)
 * [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)
 * [Jumping on the Clouds - Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/forum)
+* [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem)
 
 
 ## Medium
