@@ -16,3 +16,4 @@
 * [The Love Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem)
 * [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem)
 * [Anagram](https://www.hackerrank.com/challenges/anagram/problem)
+* [Sherlock and Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem)
