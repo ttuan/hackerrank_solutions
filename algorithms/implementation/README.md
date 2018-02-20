@@ -42,6 +42,7 @@
 * [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)
 * [Strange Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)
 * [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)
+* [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)
 
 
 ## Medium
