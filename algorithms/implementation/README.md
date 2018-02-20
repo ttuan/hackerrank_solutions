@@ -37,6 +37,7 @@
 * [Birth Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
 * [Fair Rotation](https://www.hackerrank.com/challenges/fair-rations/problem)
 * [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
+* [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)
 
 
 ## Medium
