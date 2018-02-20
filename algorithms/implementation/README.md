@@ -39,6 +39,8 @@
 * [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
 * [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)
 * [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)
+* [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)
+* [Strange Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)
 
 
 ## Medium
