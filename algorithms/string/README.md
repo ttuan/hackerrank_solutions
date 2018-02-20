@@ -17,3 +17,4 @@
 * [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem)
 * [Anagram](https://www.hackerrank.com/challenges/anagram/problem)
 * [Sherlock and Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem)
+* [Separate the number](https://www.hackerrank.com/challenges/separate-the-numbers/problem)
