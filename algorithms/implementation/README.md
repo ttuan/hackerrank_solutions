@@ -41,6 +41,7 @@
 * [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)
 * [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)
 * [Strange Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)
+* [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)
 
 
 ## Medium
