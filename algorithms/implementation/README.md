@@ -34,6 +34,7 @@
 * [Jumping on the Clouds - Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/forum)
 * [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem)
 * [Happy LadyBugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem)
+* [Birth Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
 
 
 ## Medium
