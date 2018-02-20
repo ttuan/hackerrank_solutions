@@ -36,6 +36,7 @@
 * [Happy LadyBugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem)
 * [Birth Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
 * [Fair Rotation](https://www.hackerrank.com/challenges/fair-rations/problem)
+* [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
 
 
 ## Medium
