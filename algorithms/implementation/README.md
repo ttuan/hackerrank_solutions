@@ -43,6 +43,7 @@
 * [Strange Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)
 * [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)
 * [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)
+* [Counting Valley](https://www.hackerrank.com/challenges/counting-valleys/problem)
 
 
 ## Medium
