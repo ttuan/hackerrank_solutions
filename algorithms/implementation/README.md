@@ -44,6 +44,7 @@
 * [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)
 * [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)
 * [Counting Valley](https://www.hackerrank.com/challenges/counting-valleys/problem)
+* [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)
 
 
 ## Medium
