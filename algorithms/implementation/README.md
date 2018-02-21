@@ -47,6 +47,7 @@
 * [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)
 * [Service Lane](https://www.hackerrank.com/challenges/service-lane/problem)
 * [Taum and Bday](https://www.hackerrank.com/challenges/taum-and-bday/problem)
+* [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)
 
 
 ## Medium
