@@ -45,6 +45,7 @@
 * [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)
 * [Counting Valley](https://www.hackerrank.com/challenges/counting-valleys/problem)
 * [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)
+* [Service Lane](https://www.hackerrank.com/challenges/service-lane/problem)
 
 
 ## Medium
