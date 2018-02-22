@@ -54,3 +54,4 @@
 ## Medium
 
 * [Larrys Array](https://www.hackerrank.com/challenges/larrys-array/problem)
+* [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem)
