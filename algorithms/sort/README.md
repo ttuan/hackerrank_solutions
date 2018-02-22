@@ -4,3 +4,4 @@ This is solution for [Sorting](https://www.hackerrank.com/domains/algorithms/arr
 * [Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem)
 * [Closest Number](https://www.hackerrank.com/challenges/closest-numbers/problem)
 * [Insertion Sort 1](https://www.hackerrank.com/challenges/insertionsort1/problem)
+* [Insertion Sort 2](https://www.hackerrank.com/challenges/insertionsort2/problem)
