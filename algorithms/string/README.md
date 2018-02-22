@@ -19,3 +19,4 @@
 * [Sherlock and Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem)
 * [Separate the number](https://www.hackerrank.com/challenges/separate-the-numbers/problem)
 * [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index/problem)
+* [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)
