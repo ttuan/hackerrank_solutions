@@ -10,3 +10,4 @@ This is solution for [Sorting](https://www.hackerrank.com/domains/algorithms/arr
 * [Quick Sort 1](https://www.hackerrank.com/challenges/quicksort1/problem)
 * [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)
 * [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2/problem)
+* [Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem)
