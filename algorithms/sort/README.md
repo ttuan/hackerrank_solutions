@@ -8,3 +8,4 @@ This is solution for [Sorting](https://www.hackerrank.com/domains/algorithms/arr
 * [Correctness Invariant](https://www.hackerrank.com/challenges/correctness-invariant/problem)
 * [Running Time](https://www.hackerrank.com/challenges/runningtime/problem)
 * [Quick Sort 1](https://www.hackerrank.com/challenges/quicksort1/problem)
+* [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)
