@@ -6,3 +6,4 @@ This is solution for [Sorting](https://www.hackerrank.com/domains/algorithms/arr
 * [Insertion Sort 1](https://www.hackerrank.com/challenges/insertionsort1/problem)
 * [Insertion Sort 2](https://www.hackerrank.com/challenges/insertionsort2/problem)
 * [Correctness Invariant](https://www.hackerrank.com/challenges/correctness-invariant/problem)
+* [Running Time](https://www.hackerrank.com/challenges/runningtime/problem)
