@@ -49,6 +49,7 @@
 * [Taum and Bday](https://www.hackerrank.com/challenges/taum-and-bday/problem)
 * [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)
 * [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem)
+* [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)
 
 
 ## Medium
