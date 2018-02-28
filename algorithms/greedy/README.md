@@ -4,3 +4,4 @@ This is solution for Hackerrank/Algorithm/Greedy
 * [Minimum absolute difference in an array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)
 * [Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge/problem)
 * [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem)
+* [Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem)
