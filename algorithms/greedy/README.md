@@ -6,3 +6,4 @@ This is solution for Hackerrank/Algorithm/Greedy
 * [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem)
 * [Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem)
 * [Sherlock And The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)
+* [Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys/problem)
