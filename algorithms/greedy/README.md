@@ -10,3 +10,4 @@ This is solution for Hackerrank/Algorithm/Greedy
 * [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem)
 * [Max Min](https://www.hackerrank.com/challenges/angry-children/problem)
 * [Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders/problem)
+* [Two Arrays](https://www.hackerrank.com/challenges/two-arrays/problem)
