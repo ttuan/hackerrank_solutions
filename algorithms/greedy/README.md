@@ -8,3 +8,4 @@ This is solution for Hackerrank/Algorithm/Greedy
 * [Sherlock And The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)
 * [Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys/problem)
 * [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem)
+* [Max Min](https://www.hackerrank.com/challenges/angry-children/problem)
