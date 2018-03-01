@@ -9,3 +9,4 @@ This is solution for Hackerrank/Algorithm/Greedy
 * [Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys/problem)
 * [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem)
 * [Max Min](https://www.hackerrank.com/challenges/angry-children/problem)
+* [Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders/problem)
