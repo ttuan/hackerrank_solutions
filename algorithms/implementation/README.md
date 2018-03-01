@@ -50,6 +50,7 @@
 * [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)
 * [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem)
 * [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)
+* [Strange Counter](https://www.hackerrank.com/challenges/strange-code/problem)
 
 
 ## Medium
