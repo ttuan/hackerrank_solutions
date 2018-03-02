@@ -11,3 +11,4 @@ This is solution for Hackerrank/Algorithm/Greedy
 * [Max Min](https://www.hackerrank.com/challenges/angry-children/problem)
 * [Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders/problem)
 * [Two Arrays](https://www.hackerrank.com/challenges/two-arrays/problem)
+* [Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem)
