@@ -4,8 +4,12 @@
 def climbingLeaderboard(scores, alice)
   scores.uniq!
   rs = []
+
+  # Following this comment: https://www.hackerrank.com/challenges/climbing-the-leaderboard/forum/comments/275006
+  # to solve time out problem in testcase 6,7,9. Move i to out of 'alice' loop.
+  i = scores.length - 1
+
   alice.each do |a|
-    i = scores.length - 1
     while (i >= 0) do
       if a >= scores[i]
         i -= 1
