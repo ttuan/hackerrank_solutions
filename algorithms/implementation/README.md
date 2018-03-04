@@ -60,3 +60,4 @@
 * [Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)
 * [3d Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/problem)
 * [Common Child](https://www.hackerrank.com/challenges/common-child/problem)
+* [Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation/problem)
