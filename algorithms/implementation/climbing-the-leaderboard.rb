@@ -1,6 +1,5 @@
 #!/bin/ruby
 
-# TODO refactor to pass all case
 def climbingLeaderboard(scores, alice)
   scores.uniq!
   rs = []
