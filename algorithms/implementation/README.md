@@ -63,3 +63,4 @@
 * [Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation/problem)
 * [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem)
 * [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem)
+* [Queens Attack 2](https://www.hackerrank.com/challenges/queens-attack-2/problem)
